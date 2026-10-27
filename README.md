@@ -14,7 +14,7 @@ A production-ready, highly optimized OpenCore EFI configuration designed for the
 | **Laptop Model** | ASUS TUF Gaming F15 FX506HC |
 | **Processor** | Intel® Core™ i5-11400H (Tiger Lake) |
 | **Integrated GPU** | Intel® UHD Graphics (Native layout configured via ACPI mapping) |
-| **Dedicated GPU** | NVIDIA GeForce RTX™ 3050 Laptop GPU (Disabled via SSDT / NullMoth - macOS limitation) |
+| **Dedicated GPU** | NVIDIA GeForce RTX™ 3050 Laptop GPU
 | **Audio Codec** | Realtek ALC256 (High Definition Audio via layout-id adjustments) |
 | **Wi-Fi & Bluetooth** | MediaTek MT7921 / MT7925 Wireless Network Adapter |
 | **Bootloader** | OpenCore (Latest Stable Release) |
