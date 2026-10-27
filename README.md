@@ -3,7 +3,7 @@ Fully functional OpenCore EFI configuration for the ASUS TUF Gaming F15 (FX506HC
 
 # 💻 ASUS TUF Gaming F15 FX506HC Hackintosh EFI
 
-A production-ready, highly optimized OpenCore EFI configuration designed for the **ASUS TUF Gaming F15 (FX506HC)** laptop. This configuration features native support and optimizations for **macOS 15 Sequoia** and **macOS 16 Tahoe**, with all major platform bugs fully resolved.
+A production-ready, highly optimized OpenCore EFI configuration designed for the **ASUS TUF Gaming F15 (FX506HC)** laptop. This configuration features native support and optimizations for **macOS 15 Sequoia** and **macOS 26 Tahoe**, with all major platform bugs fully resolved.
 
 ---
 
